@@ -1,5 +1,5 @@
 {
-  "name": "@node/videojs-vjstranscribe",
+  "name": "node-videojs-vjstranscribe",
   "version": "1.0.4",
   "description": "Creates searchable transcripts from text tracks",
   "main": "src/videojs-vjstranscribe.js",
