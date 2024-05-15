@@ -1,4 +1,5 @@
 // import videojs from '../node_modules/video.js';
+import videojs from 'video.js'
 import VjsTranscribeSelector from './videojs-vjstranscribe-selector';
 import VjsTranscribeDownload from './videojs-vjstranscribe-download';
 import VjsTranscribeWidget from './videojs-vjstranscribe-widget';
